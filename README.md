@@ -50,4 +50,4 @@ Este programa é um software livre; você pode redistribuí-lo e/ou modificá-lo
 
 Este programa é distribuído na esperança de que possa ser útil, mas SEM NENHUMA GARANTIA; sem uma garantia implícita de ADEQUAÇÃO a qualquer MERCADO ou APLICAÇÃO EM PARTICULAR. Veja a Licença Pública Geral GNU para mais detalhes.
 
-Você deve ter recebido uma cópia da Licença Pública Geral GNU junto com este programa; se nã
+
